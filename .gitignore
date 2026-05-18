@@ -1,0 +1,14 @@
+# Local environment variables containing private API keys
+backend/.env
+.env
+
+# Python virtual environment binaries and dependencies
+backend/.venv/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Google Cloud credentials file
+backend/service_account.json
+service_account.json
